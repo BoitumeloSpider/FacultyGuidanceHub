@@ -83,7 +83,7 @@
   <body>
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="<?php echo web_root; ?>">Job Portal</a>
+	      <a class="navbar-brand" href="<?php echo web_root; ?>">FacultyGuidanceHub</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -129,7 +129,7 @@
           <div class="row d-flex justify-content-center">
             <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
               <h2>Subcribe to our Newsletter</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+              <p>Stay up-to-date with the latest news, trends, and valuable insights in your area of interest by subscribing to our newsletter. Our newsletter is a valuable resource that provides you with exclusive content, expert advice, and exciting opportunities.</p>
               <div class="row d-flex justify-content-center mt-4 mb-4">
                 <div class="col-md-8">
                   <form action="#" class="subscribe-form">
@@ -152,7 +152,9 @@
         	<div class="col-md">
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">About</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <p>Our website connects passionate faculty members who are dedicated to helping students explore their potential<br>
+               and gain valuable skills. Through interactive projects, internships, and collaborations with top companies,<br>
+                we empower students to apply their knowledge and unlock their full potential.</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -191,9 +193,9 @@
             	<h2 class="ftco-heading-2">Have a Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Staatsartillerie Rd, Pretoria West, Pretoria, 0183</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+27 74258750</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">FacultyGuidanceHub@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
@@ -202,9 +204,7 @@
         <div class="row">
           <div class="col-md-12 text-center">
 
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+          
           </div>
         </div>
       </div>
